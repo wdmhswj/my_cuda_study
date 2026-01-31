@@ -11,6 +11,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 
 add_subdirectory(src/An_Easier_Introduction_to_Cuda)
+add_subdirectory(src/CUDA_Programming_Guide)
 
 # # 常用警告（可选）
 # target_compile_features(add PRIVATE cxx_std_17)
