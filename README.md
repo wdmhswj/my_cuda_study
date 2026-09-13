@@ -4,6 +4,13 @@
 - 简单入门教程：https://developer.nvidia.cn/blog/even-easier-introduction-cuda-2/
 - nvidia cuda 官方文档：https://docs.nvidia.com/cuda/
 - NVIDIA curated collection of educational resources related to general purpose GPU programming: https://github.com/NVIDIA/accelerated-computing-hub
+- [CUDA Platform for Accelerated Computing | NVIDIA Developer](https://developer.nvidia.com/cuda?ncid=GTC-NV0YIGWW&utm_source=chatgpt.com)
+- [CUDA 入门教程：更简单的介绍 (更新版) - NVIDIA 技术博客](https://developer.nvidia.cn/blog/even-easier-introduction-cuda-2/)
+- [PaddleJitLab/CUDATutorial: A self-learning tutorail for CUDA High Performance Programing.](https://github.com/PaddleJitLab/CUDATutorial)
+- [alternbits/awesome-cuda-books: A curated list of best cuda programming books](https://github.com/alternbits/awesome-cuda-books)
+- [harleyszhang/llm_note: LLM notes, including model inference, transformer model structure, and llm framework code analysis notes.](https://github.com/harleyszhang/llm_note)
+- [xlite-dev/LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.](https://github.com/xlite-dev/LeetCUDA)
+
 
 ## Cuda Programming Guide
 
